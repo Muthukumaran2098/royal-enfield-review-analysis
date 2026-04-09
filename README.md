@@ -164,6 +164,5 @@ This runs the full pipeline: scrape → classify → analyse → generate charts
 
 **Muthukumaran P** — Data Scientist
 
-- Email: muthuwr1998@gmail.com
 - GitHub: [github.com/Muthukumaran2098](https://github.com/Muthukumaran2098)
 - LinkedIn: [linkedin.com/in/muthukumaran98](http://www.linkedin.com/in/muthukumaran98)
